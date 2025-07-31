@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "963f369e80d2e016ca6f321da9adb34e",
+    "content-hash": "05768820d16f74cf383511edd73c55c4",
     "packages": [
         {
             "name": "aimeos/ai-admin-graphql",

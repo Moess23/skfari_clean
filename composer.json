@@ -7,7 +7,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "aimeos/aimeos-laravel": "^2025.07",
+        "aimeos/aimeos-laravel": "~2025.07",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1"
     },
